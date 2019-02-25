@@ -1,2 +1,2 @@
 # movie_to_ascii
-Usage: ./play movie.mp4 repeat render
+Usage: ./play.sh movie.mp4 repeat render
